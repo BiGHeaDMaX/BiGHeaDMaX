@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://bigheadmax.github.io/images/banner-black.jpg">
+<img src="https://bigheadmax.github.io/images/logo-accueil.jpg">
 </p>
 
 # **Bienvenue !**

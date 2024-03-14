@@ -8,8 +8,8 @@ Bienvenue sur mon GitHub ! Vous trouverez ici quelques-uns des projets que j'ai 
 
 # **Mon parcours**
 
-_Issu d'une formation scientifique dans le domaine de la biologie et de l'environnement, j'ai par la suite bifurqué et travaillé pendant 10 ans dans le domaine des réseaux sociaux._
-_J'ai enfin décidé de revenir vers ce que j'ai toujours aimé, les sciences, en me formant cette fois-ci en science des données avec un diplôme de Machine Learning Engineer._
+Issu d'une formation scientifique dans le domaine de la biologie et de l'environnement, j'ai par la suite bifurqué et travaillé pendant 10 ans dans le domaine des réseaux sociaux.
+J'ai enfin décidé de revenir vers ce que j'ai toujours aimé, les sciences, en me formant cette fois-ci en sciences des données avec un diplôme de Machine Learning Engineer.
 
 > [!TIP]
 > Il n'est jamais trop tard pour apprendre de nouvelles choses, chaque jour où l'on a rien appris est un jour perdu !

@@ -12,7 +12,7 @@ Issu d'une formation scientifique dans le domaine de la biologie et de l'environ
 J'ai enfin décidé de revenir vers ce que j'ai toujours aimé, les sciences, en me formant cette fois-ci en sciences des données avec un diplôme de Machine Learning Engineer.
 
 > [!TIP]
-> Il n'est jamais trop tard pour apprendre de nouvelles choses, chaque jour où l'on a rien appris est un jour perdu !
+> Il n'est jamais trop tard pour apprendre de nouvelles choses, chaque jour où l'on n'a rien appris est un jour perdu !
 
 # **Portfolio**
 
